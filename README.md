@@ -1,6 +1,5 @@
-# Welcome to My GitHub Profile!
-
-Hi there! I'm Sanjeev Yadav.
+<h1 align="center">Hi 👋, I'm Sanjeev Yadav</h1> <!-- Adding a subtitle --> 
+<h3 align="center">Aspiring Software Developer | Student at MNIT Jaipur</h3> <!-- Adding a horizontal line --> <hr>
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning full-stack development
